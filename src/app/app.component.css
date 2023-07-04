@@ -1,0 +1,23 @@
+.alumnos{
+    background-color: aquamarine;
+    height: 290px;
+    width: 800px;
+    font-size:20px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.parrafos{
+    background-color: cadetblue;
+    height: 100px;
+    width: 500px;
+}
+.succes{
+    background-color: yellow;
+}
+.failed{
+    background-color: brown;
+}
+.excused{
+    background-color: green;
+}
